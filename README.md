@@ -1,7 +1,7 @@
 # 🙋🏻‍♂️ Hi, I'm Phyo Thant!
-👨🏻‍💻 A Software Engineer passionate about Artificial Intelligence, Machine learning, and Game Development<br/>
+👨🏻‍💻 A Software Engineer passionate about Artificial Intelligence, Machine learning, and Web Development<br/>
 👨🏻‍🎓 Junior transfer student at the [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego), from [Pasadena City College](https://en.wikipedia.org/wiki/Pasadena_City_College)<br/>
-💭 Currently learning web development and game development<br/>
+<!-- 💭 Specializing in AI <br/> -->
 
 # 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,arduino,java,js,css,html)](https://skillicons.dev)
