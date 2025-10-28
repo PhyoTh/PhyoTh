@@ -14,6 +14,12 @@
   <a href="https://discordid.netlify.app/?id=418373777873829890">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="https://leetcode.com/u/pthant/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://github.com/PhyoTh">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
   <a href="https://devpost.com/software/help-myanmar-rise">
     <img src="https://img.shields.io/badge/DEVPOST-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Badge"/>
   </a>
@@ -29,11 +35,5 @@
   </a>
 </p>
 
-# 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/pthant?theme=dark&font=Ubuntu&ext=heatmap)
-
-# 📽️ Project Videos
-[![Graphing Calculator Demo](https://ytcards.demolab.com/?id=RbQpmkbzOAI&title=Graphing+Calculator+Demo&lang=en&timestamp=1683743855&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=107 "Graphing Calculator Demo")](https://youtu.be/RbQpmkbzOAI)
-[![Data Structure Project (Linked-list, Stack and Queue, BplusTree, Binary File, Parser, SQL, Table)](https://ytcards.demolab.com/?id=2pizsEKHbJU&title=Data+Structure+Project&lang=en&timestamp=1678406505&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=277 "Data Structure Project (Linked-list, Stack and Queue, BplusTree, Binary File, Parser, SQL, Table)")](https://youtu.be/2pizsEKHbJU)
-[![iPhone Calculator with Assembly x86](https://ytcards.demolab.com/?id=NC6vwg5ld2M&title=iPhone+Calculator+with+Assembly+x86&lang=en&timestamp=1683744394&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=68 "iPhone Calculator with Assembly x86")](https://youtu.be/NC6vwg5ld2M)
-[![Typing Game Demo](https://ytcards.demolab.com/?id=qofZkrQc83M&title=Typing+Game+Demo&lang=en&timestamp=1683744945&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "Typing Game Demo")](https://youtu.be/qofZkrQc83M)
+- Focus areas: Deep Learning, Computer Vision, NLP, RAG, LLMs, Trajectory Prediction, Multimodal Sensor Fusion, Graph Neural Networks  
+- Tooling I live in: FastAPI + WebSocket backends, NGINX reverse proxy, Wireshark/tcpdump for network diagnostics, Raspberry Pi hardware bring-up, Splunk SOAR + security automation
