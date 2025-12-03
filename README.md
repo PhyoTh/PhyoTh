@@ -1,10 +1,8 @@
 # 👋🏻 Hi, I'm Phyo Thant!
 
-👨🏻‍💻 A Software Engineer passionate about Artificial Intelligence, Machine Learning, and Web Development  
-👨🏻‍🎓 Junior transfer student at the [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego), from [Pasadena City College](https://en.wikipedia.org/wiki/Pasadena_City_College)  
-🔬 Research Assistant at [UCSD Design Lab](https://designlab.ucsd.edu/) working on AI/ML projects  
-🤖 Robotics Engineer Intern (Network Systems) at Caltrans  
-🚗 Applied ML Research Engineer (Autonomy) at UC San Diego  
+👨🏻‍💻 A Software Engineer passionate about Artificial Intelligence, Machine Learning, and Web Development
+👨🏻‍🎓 Senior transfer student at the [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego), from [Pasadena City College](https://en.wikipedia.org/wiki/Pasadena_City_College)  
+🤖 Backend Engineer at Caltrans | AI Game Developer Intern at Qualcomm Institute
 
 ## 📬 Socials
 <div id="badges">
