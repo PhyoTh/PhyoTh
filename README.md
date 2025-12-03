@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Phyo Thant!
 
-👨🏻‍💻 A Software Engineer passionate about Artificial Intelligence, Machine Learning, and Web Development
+👨🏻‍💻 A Software Engineer passionate about Artificial Intelligence, Machine Learning, and Web Development   
 👨🏻‍🎓 Senior transfer student at the [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego), from [Pasadena City College](https://en.wikipedia.org/wiki/Pasadena_City_College)  
 🤖 Backend Engineer at Caltrans | AI Game Developer Intern at Qualcomm Institute
 
@@ -21,7 +21,7 @@
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,assembly,python,java,javascript,bash,postgresql,sqlite,sqlalchemy,nodejs,expressjs,react,html,css,tailwindcss,mongodb,fastapi,nginx,websocket,docker,raspberrypi,linux,git,github,vscode,pandas,numpy,scikitlearn,pytorch,tensorflow,opencv,huggingface,matplotlib,seaborn,wireshark,latex,figma&perline=11"
+      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,assembly,python,java,javascript,bash,postgresql,sqlalchemy,nodejs,expressjs,react,html,css,tailwindcss,mongodb,fastapi,websocket,docker,raspberrypi,linux,git,github,vscode,pandas,numpy,scikitlearn,pytorch,tensorflow,matplotlib,wireshark&perline=11"
       alt="Tech Stack"
     />
   </a>
