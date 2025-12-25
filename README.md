@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Phyo Thant!
 
-👨🏻‍💻 A Software Engineer passionate about Artificial Intelligence, Machine Learning, and Web Development   
+👨🏻‍💻 An Aspiring Software Engineer passionate about Backend, Systems, and Infrastructures, focusing on efficiency.
 👨🏻‍🎓 Senior transfer student at the [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego), from [Pasadena City College](https://en.wikipedia.org/wiki/Pasadena_City_College)  
 🤖 Backend Engineer at Caltrans | AI Game Developer Intern at Qualcomm Institute
 
