@@ -2,7 +2,9 @@
 
 👨🏻‍💻 An Aspiring Software Engineer passionate about Backend, Systems, and Infrastructures  
 👨🏻‍🎓 Senior transfer student at the [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego), from [Pasadena City College](https://en.wikipedia.org/wiki/Pasadena_City_College)  
-🤖 Backend Engineer at Caltrans | AI Game Developer Intern at Qualcomm Institute
+ Current: Software Engineer Intern at Qualcomm Institute
+ Incoming: Full-Stack Developer Intern at Think Round
+ Ex: Robotics Distributed Engineer at Caltrans
 
 ## 📬 Socials
 <div id="badges">
