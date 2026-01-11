@@ -2,9 +2,10 @@
 
 👨🏻‍💻 An Aspiring Software Engineer passionate about Backend, Systems, and Infrastructures  
 👨🏻‍🎓 Senior transfer student at the [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego), from [Pasadena City College](https://en.wikipedia.org/wiki/Pasadena_City_College)  
- Current: Software Engineer Intern at Qualcomm Institute
- Incoming: Full-Stack Developer Intern at Think Round
- Ex: Robotics Distributed Engineer at Caltrans
+## 💼 Experience
+- 💻 **Current:** Software Engineer Intern @ Qualcomm Institute
+- 🔜 **Incoming:** Full-Stack Developer Intern @ Think Round  
+- ⚙️ **Previous:** Robotics Distributed Engineer @ Caltrans
 
 ## 📬 Socials
 <div id="badges">
