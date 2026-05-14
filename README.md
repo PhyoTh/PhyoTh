@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Phyo Thant!
 
-👨🏻‍💻 An Aspiring Software Engineer passionate about Backend, Systems, and Infrastructures 
+👨🏻‍💻 An Aspiring Software Engineer passionate about Backend, Systems, and Infrastructures with Performance-Oriented Mindset  
 👨🏻‍🎓 Senior transfer student at the [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego), from [Pasadena City College](https://en.wikipedia.org/wiki/Pasadena_City_College)  
 ## 💼 Experience
 - 💻 **Current:** Full-Stack Developer Intern @ Think Round Inc.
