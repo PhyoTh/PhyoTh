@@ -1,5 +1,5 @@
 # 👋🏻 Hi, I'm Phyo Thant!
-👨🏻‍💻 Aspiring Software engineer focused on databases, distributed backend systems, and machine learning in systems  
+👨🏻‍💻 Aspiring Software engineer focused on distributed backend systems, real-time systems, and machine learning in systems  
 🙋🏻‍♂️ Current: Master of Computer Science at [University of Illinois Urbana-Champaign](https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign)  
 👨🏻‍🎓 Past: B.S. in Computer Science at [UC San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego), transferred from [Pasadena City College](https://en.wikipedia.org/wiki/Pasadena_City_College)  
 🔎 Looking for Summer 2027 software engineering internships
