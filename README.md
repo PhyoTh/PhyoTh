@@ -1,23 +1,23 @@
 # 👋🏻 Hi, I'm Phyo Thant!
-👨🏻‍💻 Aspiring Software engineer focused on distributed backend systems, real-time systems, and machine learning in systems  
+👨🏻‍💻 Software Engineer focused on distributed backend systems, real-time systems, and machine learning in systems  
 🙋🏻‍♂️ Current: Master of Computer Science at [University of Illinois Urbana-Champaign](https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign)  
 👨🏻‍🎓 Past: B.S. in Computer Science at [UC San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego), transferred from [Pasadena City College](https://en.wikipedia.org/wiki/Pasadena_City_College)  
 🔎 Looking for Summer 2027 software engineering internships
 
 ## 💼 Experience
 - 💻 **Full-Stack Developer Intern** @ Think Round Inc.
-- ⚙️ **Robotics Software Engineer Intern** @ Caltrans
+- ⚙️ **Embedded Software Engineer Intern** @ Caltrans
 - 🔬 **Machine Learning Research Assistant** @ UC San Diego
 
 ## 📬 Socials
 <div id="badges">
-  <a href="https://www.linkedin.com/in/phyo-thant-ba0701253">
+  <a href="https://www.linkedin.com/in/phyothant-/">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discordid.netlify.app/?id=418373777873829890">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://devpost.com/software/help-myanmar-rise">
+  <a href="https://devpost.com/PhyoTh">
     <img src="https://img.shields.io/badge/DEVPOST-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Badge"/>
   </a>
 </div>
